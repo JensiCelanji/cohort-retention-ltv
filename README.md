@@ -2,7 +2,7 @@
 
 I wanted to figure out how quickly new customers stop buying, what early behavior predicts that they'll stick around, and how much a customer is actually worth. So I built a cohort analysis on over a million real transactions and turned it into a dashboard.
 
-![Dashboard](output/dashboard.png)
+<img width="1168" height="652" alt="image" src="https://github.com/user-attachments/assets/4dc2fa91-c497-4358-b95d-bce918b04871" />
 
 ## The Question
 Most customers buy once and never come back. If you can spot the ones who will stay early on, you know where to focus. I wanted to answer three things: how many new customers churn, what separates the ones who stay, and how concentrated revenue is across customers.
